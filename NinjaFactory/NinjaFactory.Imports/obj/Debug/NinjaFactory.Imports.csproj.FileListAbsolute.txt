@@ -1,0 +1,14 @@
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\bin\Debug\NinjaFactory.Imports.dll.config
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\bin\Debug\NinjaFactory.Imports.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\bin\Debug\NinjaFactory.Imports.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\bin\Debug\MongoDB.Bson.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\bin\Debug\MongoDB.Driver.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\bin\Debug\NinjaFactory.DataBase.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\bin\Debug\NinjaFactory.DataBase.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\bin\Debug\MongoDB.Bson.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\bin\Debug\MongoDB.Driver.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\obj\Debug\NinjaFactory.Imports.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\obj\Debug\NinjaFactory.Imports.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.Imports\obj\Debug\NinjaFactory.Imports.pdb

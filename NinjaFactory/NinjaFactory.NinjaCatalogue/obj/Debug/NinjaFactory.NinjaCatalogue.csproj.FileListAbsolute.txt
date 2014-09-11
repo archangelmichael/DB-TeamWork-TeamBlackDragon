@@ -1,0 +1,16 @@
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\NinjaFactory.NinjaCatalogue.dll.config
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\NinjaFactory.NinjaCatalogue.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\NinjaFactory.NinjaCatalogue.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\NinjaFactory.DataBase.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\NinjaFactory.DataBase.MySql.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\Telerik.OpenAccess.40.Extensions.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\NinjaFactory.DataBase.MySql.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\NinjaFactory.DataBase.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\Telerik.OpenAccess.40.Extensions.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\obj\Debug\NinjaFactory.NinjaCatalogue.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\obj\Debug\NinjaFactory.NinjaCatalogue.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.NinjaCatalogue\obj\Debug\NinjaFactory.NinjaCatalogue.pdb

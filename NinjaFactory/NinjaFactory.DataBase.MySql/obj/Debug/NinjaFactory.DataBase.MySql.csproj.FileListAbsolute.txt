@@ -1,0 +1,10 @@
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\bin\Debug\NinjaFactory.DataBase.MySql.dll.config
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\bin\Debug\NinjaFactory.DataBase.MySql.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\bin\Debug\NinjaFactory.DataBase.MySql.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\bin\Debug\Telerik.OpenAccess.40.Extensions.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\bin\Debug\Telerik.OpenAccess.40.Extensions.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\obj\Debug\NinjaFactory.DataBase.MySql.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\obj\Debug\NinjaFactory.DataBase.MySql.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.DataBase.MySql\obj\Debug\NinjaFactory.DataBase.MySql.pdb

@@ -1,0 +1,12 @@
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\bin\Debug\NinjaFactory.PDFReporting.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\bin\Debug\NinjaFactory.PDFReporting.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\bin\Debug\itextsharp.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\bin\Debug\NinjaFactory.DataBase.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\bin\Debug\EntityFramework.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\bin\Debug\NinjaFactory.DataBase.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\bin\Debug\itextsharp.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\bin\Debug\EntityFramework.xml
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\obj\Debug\NinjaFactory.PDFReporting.csprojResolveAssemblyReference.cache
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\obj\Debug\NinjaFactory.PDFReporting.dll
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\obj\Debug\NinjaFactory.PDFReporting.pdb
+C:\Users\ARCHANGEL\Documents\GitHub\DataBasesTeamWork_TeamBlackDragon\NinjaFactory\NinjaFactory.PDFReporting\bin\Debug\NinjaFactory.PDFReporting.dll.config
